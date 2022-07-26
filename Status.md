@@ -16,7 +16,7 @@
 | [D. E. Shaw](https://www.deshaw.com/careers/choose-your-path) | NYC, London | Various tech roles. Accepts F1 OPT and will sponsor work visas. |
 | [~~Indeed~~](https://university.indeed.jobs/university/jobs/39977?lang=en-us) | Remote | Associate Research Engineer. Accepts F1 OPT and will sponsor work visas. |
 | [Capital One](https://www.capitalonecareers.com/job/mclean/technology-development-program-associate-2023/31238/31914108720) | US | Technology Development Program Associate | Declined|
-| [Virtu Financial](https://www.virtu.com/careers/) | New York, NY | Entry-Level Software Engineer |
+| [Virtu Financial](https://www.virtu.com/careers/) | New York, NY | Entry-Level Software Engineer | Applied|
 | [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | US | Software Engineer | Applied|
 | [Philadelphia Phillies](https://boards.greenhouse.io/philadelphiaphilliesrddepartment/jobs/5203393003?gh_src=99fc01a23us) | Philadelphia, PA | Software Engineer Associate (Sprint/Summer 2023) | Applied|
 | [Caterpillar](https://careers.caterpillar.com/en/jobs/job/r0000140356-2023-associate-software-engineer-cat-digital/?source=LinkedIn) | Champaign, IL | Associate Software Engineer (Cat Digital) |Unable|
