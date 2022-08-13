@@ -46,11 +46,11 @@
 | [Neeva](https://jobs.lever.co/neeva/8f7622f3-174b-421b-88f2-407c89ef55fe)  | Austin, Mountain View, Remote | Software Engineer, New Grad, 2023 | Declined|
 | [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago, IL or Remote | Junior Developer and Quant positions|Applied|
 | [Forward](https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a) | San Francisco, CA| Software Engineer - New Grad Full Stack)|Applied|
-| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=coderQuad) | San Jose, CA | Software Engineer I (Full Time) | Unable|
-| [Broadway Technology](https://jobs.lever.co/broadwaytechnology/d364919b-64e9-464a-b848-04bc3a4dcd15?lever-origin=applied&lever-source%5B%5D=Handshake%20Applicant) | NYC | Software Engineer (New Grad-Fall 2022/Spring 2023) |
-| [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12954) | NYC & more | 2023 Technology Summer Analyst Program. For the roles in other locations, look up the job title on their website. |
-| [Capstone Investment Advisors](https://www.capstoneco.com/careers/2023-technology-graduate-rotation-program-nyc/?gh_jid=6223901002) | NYC, London | 2023 Technology Graduate Rotation Program. For the role in London, look up the job title on their website. |
-| [Seven Eight Capital](https://boards.greenhouse.io/seveneightcapital/jobs/6306094002?gh_jid=6306094002) | NYC | 2023 Software Engineer (Campus Hire Graduating 2023) |
-| [PEAK6](https://careers.peak6.com/jobs/technology-management/chicago-il-new-york-ny-austin-tx/software-engineer-campus-entry-level/4449643?gh_jid=4449643#/) | NYC & more | Software Engineer - Campus Entry-Level. The same application is used for all locations. |
-| [Bloomberg](https://careers.bloomberg.com/job/detail/105010) | New York, NY | 2023 Software Engineer
-| [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus%20hire) | NYC, Houston(TX), and London | Software Engineer, Quantitative Researcher |
+| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1380884?source=coderQuad) | San Jose, CA | Software Engineer I (Full Time) | Applied|
+| [Broadway Technology](https://jobs.lever.co/broadwaytechnology/d364919b-64e9-464a-b848-04bc3a4dcd15?lever-origin=applied&lever-source%5B%5D=Handshake%20Applicant) | NYC | Software Engineer (New Grad-Fall 2022/Spring 2023) |Applied|
+| [Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/12954) | NYC & more | 2023 Technology Summer Analyst Program. For the roles in other locations, look up the job title on their website. | Applied|
+| [Capstone Investment Advisors](https://www.capstoneco.com/careers/2023-technology-graduate-rotation-program-nyc/?gh_jid=6223901002) | NYC, London | 2023 Technology Graduate Rotation Program. For the role in London, look up the job title on their website. | Unable|
+| [Seven Eight Capital](https://boards.greenhouse.io/seveneightcapital/jobs/6306094002?gh_jid=6306094002) | NYC | 2023 Software Engineer (Campus Hire Graduating 2023) |Applied|
+| [PEAK6](https://careers.peak6.com/jobs/technology-management/chicago-il-new-york-ny-austin-tx/software-engineer-campus-entry-level/4449643?gh_jid=4449643#/) | NYC & more | Software Engineer - Campus Entry-Level. The same application is used for all locations. |Applied|
+| [Bloomberg](https://careers.bloomberg.com/job/detail/105010) | New York, NY | 2023 Software Engineer|Applied|
+| [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/campus%20hire) | NYC, Houston(TX), and London | Software Engineer, Quantitative Researcher |Applied|
