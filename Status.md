@@ -76,6 +76,13 @@
 | [American Express](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States) | [Sunrise, FL](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787262&domain=aexp.com) / [Phoenix, AZ](https://aexp.eightfold.ai/careers?query=Campus&location=United%20States&pid=12787218&domain=aexp.com) | **No Visa Sponsorship** SWE, Information Security, DS, PM... Check the website for more locations and positions. | Unable|
 | [SambaNova Systems](https://boards.greenhouse.io/sambanovasystems/jobs/4589084004) | Palo Alto, CA | NCG - Software Engineer |Applied|
 | [Manulife](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/START-Program---Software-Engineering_JR22080183-1) | Boston, MA | START Program - New Grad (June 2023 Start) | Unable|
+| [NetApp](https://netapp.eightfold.ai/careers?pid=12956090&domain=netapp.com&utm) | San Jose, CA & more | NetApp Emerging Talent - Software Engineer. For the same role in other locations, look up the job title on their website. | Applied|
+| [U.S. Bank](https://careers.usbank.com/global/en/job/UBNAGLOBAL20220029893EXTERNALENGLOBAL) | Richfield, MN & more | 2023 Engineering Full-Time Rotation Program �rly Careers (Undergraduate) | Unable|
+| [Rippling](https://www.rippling.com/careers/5237048003?gh_jid=5237048003) | San Francisco, CA | Software Engineer - New Grad | Applied|
+| [Bank of America](https://campus.bankofamerica.com/careers/global_technology_analyst_program__2023.html) | NYC & more | Global Technology Analyst Program - 2023 | Unable|
+| [Textron Specialized Vehicles](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=303763) | Augusta, GA | 2023 Software Engineer I | Unable|
+| [Gordian Software](https://jobs.ashbyhq.com/GordianSoftware/80539622-fb89-4806-9d1f-b319d100fedd/application) | Bellevue, WA & remote | Software Engineer (New College Graduate) | Applied|
+| [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285569003) | Fremont, CA & more | Software Engineer (Fresh Grad 2023) | essay|
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_university/job/San-Jose/XMLNAME-2023-University-Graduate---Software-Engineer_R130209) | San Jose | 2023 University Graduate - Software Engineer | Applied|
 | [Levvel](https://jobs.lever.co/levvel/870a74c2-2ab1-46e4-83ff-c24d620b6c0f?lever-via=Emo8FrYRZ6/) | Remote | Junior Developer (Early Talent 2023) |  Applied|
 | [General Motors](https://search-careers.gm.com/jobs/job/entry-level-software-engineering-rotational-program-warren-jr-000089747/) | Warren, MI | Entry-Level Software Engineering Rotational Program |  Unable|
