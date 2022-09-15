@@ -150,7 +150,6 @@
 | [Peraton](https://careers.peraton.com/job-details/16618504/software-engineer-entry-level-blacksburg-va-blacksburg-va/?utm_medium=%22mcloud-jobads%22&utm_campaign=Engineering&utm_content=Software%20Engineer%20(Entry-level)-%20Blacksburg,%20VA&utm_term=2022-124881&utm_source=Indeed) | Blacksburg, VA | **U.S. Citizenship and the ability to obtain and maintain a security clearance** Software Engineer (Entry-Level) |Unable|
 | [Pinterest](https://www.pinterestcareers.com/job/16663907/university-grad-software-engineer-usa-remote/) | US Remote | [University Grad Software Engineer](https://www.pinterestcareers.com/job/16663907/university-grad-software-engineer-usa-remote/) (**No Visa Sponsorship**) <br/><br/>[University Grad Machine Learning Engineer](https://www.pinterestcareers.com/job/16663106/university-grad-machine-learning-engineer-2023-usa-remote/) (**Sponsorship available, Masters only**) |Applied|
 | [Sentry](https://boards.greenhouse.io/sentry/jobs/4349409?s=LinkedIn&source=LinkedIn) | San Francisco, CA | Software Engineer, New Grad (2023) |Applied|
-
 | [DISCO](https://www.csdisco.com/careers/software-engineer-associate) | Austin, TX | Software Engineer Associate |Applied|
 | [ZipRecruiter](https://boards.greenhouse.io/ziprecruiter/jobs/4546753) | Santa Monica, CA or US Remote | Software Engineer - New Grad |Applied|
 | [Singularity Data](https://apply.workable.com/risingwave-labs/j/02769A5861/) | Santa Clara| Software Engineer (New Grad)-Cloud Database|Applied|
